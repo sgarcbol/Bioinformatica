@@ -1,0 +1,22 @@
+Nombre	Apellidos	Edad	Mascota
+Silvia	Garcia	20	perro
+Nombre	Apellidos	Edad	Mascota
+Silvia	Garcia	20	perro
+Laura	Monleon	20	gato
+Oscar	Garcia	21\leon
+Lucia	Martinez	22\delfin
+Nombre	Apellidos	Edad	Mascota
+Silvia	Garcia	20	perro
+Laura	Monleon	20	gato
+Oscar	Garcia	21\leon
+Lucia	Martinez	22\delfin
+Nombre	Apellidos	Edad	Mascota
+Silvia	Garcia	20	perro
+Laura	Monleon	20	gato
+Oscar	Garcia	21\leon
+Lucia	Martinez	22\delfin
+Nombre	Apellidos	Edad	Mascota
+Silvia	Garcia	20	perro
+Laura	Monleon	20	gato
+Oscar	Garcia	21\leon
+Lucia	Martinez	22\delfin
